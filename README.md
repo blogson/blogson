@@ -3,7 +3,7 @@
 Aqui você encontra alguns pequenos projetos e códigos dos artigos do Blogson.
 
 Visite o Blogson - O Blog do Prof. Anderson.
-https://www.blogson.com.br/wp-admin/edit.php
+https://www.blogson.com.br/ 
 
 <!---
 blogson/blogson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
